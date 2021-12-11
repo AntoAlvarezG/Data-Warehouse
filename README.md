@@ -25,6 +25,7 @@ Declared in **package.json** file. Must be installed to run the server.
 ## Database Connection:
 
 Download XAMPP software from **https://www.apachefriends.org/download.html**
+Import the **warehouse.sql** file into **http://localhost/phpmyadmin/**
 
 Access **connection.js** if you need to configure your local connection.
 
